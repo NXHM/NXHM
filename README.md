@@ -11,7 +11,7 @@ I'm a passionate Systems Engineer from the Universidad de Lima with a strong dri
 
 ## Skills
 
-Here are some of the technologies and languages I work with:
+Here are some of the languages I work with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -28,7 +28,7 @@ Here are some of the technologies and languages I work with:
 
 ## Learning & Interests
 
-I'm currently focused on deepening my knowledge and exploring the capabilities of **Rust** and **Go**.
+I'm currently focused on deepening my knowledge and exploring the capabilities of **Rust**, **Java** and **Go**. And learning more about Artificial Inteligence
 
 ## Connect With Me
 
