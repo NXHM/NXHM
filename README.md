@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate Systems Engineer from the Universidad de Lima with a strong drive for innovation and building impactful solutions. As an entrepreneur and full-stack developer, I enjoy bringing ideas to life from concept to deployment. My journey also includes exploring the exciting world of game development. I'm constantly seeking to expand my knowledge and tackle new challenges in the ever-evolving tech landscape.
+I'm a passionate Systems and Software Engineer from the Universidad de Lima with a strong drive for innovation and building impactful solutions. As an entrepreneur and full-stack developer, I enjoy bringing ideas to life from concept to deployment. My journey also includes exploring the exciting world of game development. I'm constantly seeking to expand my knowledge and tackle new challenges in the ever-evolving tech landscape.
 
 ## Skills
 
