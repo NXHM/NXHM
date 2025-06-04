@@ -11,7 +11,7 @@ I'm a passionate Systems and Software Engineer from the Universidad de Lima with
 
 ## Skills
 
-Here are some of the languages I work with:
+Here are some of the languages and frameworks I work with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
