@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hey there! I'm Nicolás 👋</h1>
-  <p align="center">Systems Engineer | Entrepreneur | Full-Stack Developer | Game Developer</p>
+  <p align="center">Systems and Software Engineer | Entrepreneur | Full-Stack Developer | Game Developer</p>
 </p>
 
 ---
