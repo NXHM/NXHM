@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hey there! I'm Nicolás 👋</h1>
-  <p align="center">Systems and Software Engineer | Entrepreneur | Full-Stack Developer | Game Developer</p>
+  <p align="center">Systems and Software Engineer | Entrepreneur | Full-Stack Developer | Game Developer | AI Developer</p>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Here are some of the languages and frameworks I work with:
 
 ## Learning & Interests
 
-I'm currently focused on deepening my knowledge and exploring the capabilities of **Rust**, **Java** and **Go**. And learning more about Artificial Inteligence
+I'm currently focused on deepening my knowledge and exploring the capabilities of **Rust**, **Java** and **Go**. And learning more about Artificial Inteligence (LLM, MCP, A2A, etc.)
 
 ## Connect With Me
 
