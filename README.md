@@ -34,7 +34,7 @@ Here are some of the languages and frameworks I work with:
 
 ## Learning & Interests
 
-I'm currently focused on deepening my knowledge and exploring the capabilities of **Rust**, **Java** and **Go**. And learning more about Artificial Inteligence (LLM, MCP, A2A, etc.)
+I'm currently focused on deepening my knowledge and exploring the capabilities of **Rust**, **Java** and **Go**. And learning more about Artificial Intelligence (LLM, MCP, A2A, etc.)
 
 ## Connect With Me
 
@@ -43,6 +43,16 @@ Feel free to connect with me on LinkedIn!
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-xavier-herrera-medina/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## Visit My Website
+
+Check out my consulting services and portfolio:
+
+<p align="center">
+  <a href="https://snak-consulting.com/en" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
