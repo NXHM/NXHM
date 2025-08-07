@@ -52,7 +52,7 @@ Check out my consulting services and portfolio:
 
 <p align="center">
   <a href="https://snak-consulting.com/en" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="/logoSnakNoText" alt="SNAK IT Consulting Website" />
   </a>
 </p>
 
