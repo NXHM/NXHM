@@ -52,7 +52,7 @@ Check out my consulting services and portfolio:
 
 <p align="center">
   <a href="https://snak-consulting.com/en" target="_blank">
-    <img src="/logoSnakNoText" alt="SNAK IT Consulting Website" />
+    <img src="/logoSnakNoText.svg" alt="SNAK IT Consulting Website" />
   </a>
 </p>
 
